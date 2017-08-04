@@ -7,7 +7,7 @@ description = "Procedural functionlike!() macros using only Macros 1.1"
 repository = "https://github.com/dtolnay/proc-macro-hack"
 
 [features]
-default = ["proc_macro"]
+default = []
 proc_macro = []
 
 [dependencies]
